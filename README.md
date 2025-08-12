@@ -1,1 +1,5 @@
 # avlundberg.gitbhub.io
+
+This is a test to see how this works. 
+
+Currently a postdoctoral researcher at the <a href="https://mau.se/en/persons/adam.lundberg/" target="_blank">Institute for Urban Research, Malmö University.</a> PhD degree from the <a href="https://katalog.uu.se/empinfo/?id=N19-1984" target="_blank">Department of Human Geography, Uppsala university</a>.<br /><br />Sometimes, I also do consulting work within the spheres of public art, city planning and cultural policy.<br /><br /><a href="mailto:adam.v.lundberg@gmail.com">Contact</a> • <a href="https://www.researchgate.net/profile/Adam-Lundberg" target="_blank">ResearchGate</a> • <a href="https://lu.academia.edu/AdamLundberg" target="_blank">Academia</a> •   <a href="https://www.linkedin.com/in/adamvlundberg" target="_blank">LinkedIn</a> •   <a href="http://www.eastcouncil.com" target="_blank">East Council</a> •   <a href="https://soundcloud.com/geography" target="_blank">Geography Records</a>
