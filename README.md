@@ -1,4 +1,4 @@
-# avlundberg.gitbhub.io
+# avlundberg.github.io
 
 This is a test to see how this works. 
 
